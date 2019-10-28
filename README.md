@@ -14,6 +14,7 @@ Built vertical slice of urbanSDK
   - downloads CSV file
   - postgres database is set up
   - express app is running. connected to postgress databaase
+  - complete CRUD routes
   
 ## In progress
   - Styling is still in progress
