@@ -73,9 +73,6 @@ class App extends Component{
         })
         
   }
-
-  
-    
   
   arrAvg = (arr) => {
     let length = arr.length
