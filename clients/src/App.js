@@ -44,6 +44,7 @@ class App extends Component{
     // }
   }
 
+
   async fetchTableData() {
     const response = await axios.get('https://api.weather.gov/points/30.3322,-81.6557', {
       headers: {}
